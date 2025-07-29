@@ -8,6 +8,6 @@
  *
  * @author SCC-COLLEGE
  */
-public class activity3 {
+public class activity2 {
     
 }
